@@ -1,0 +1,38 @@
+_repo: Mark-Twain-s-Letters---Volume-1--1853-1866-_3193
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Paine, Albert Bigelow
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '1076'
+    url: http://www.gutenberg.org/2009/agents/1076
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3193'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American -- 19th century -- Correspondence'
+- !lcc 'PS'
+- !lcsh 'Twain, Mark, 1835-1910 -- Correspondence'
+- GITenberg
+title: Mark Twain's Letters — Volume 1 (1853-1866)
+url: http://www.gutenberg.org/ebooks/3193
