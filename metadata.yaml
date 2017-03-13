@@ -1,5 +1,5 @@
 _repo: Mark-Twain-s-Letters---Volume-1--1853-1866-_3193
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Paine, Albert Bigelow
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '1076'
     url: http://www.gutenberg.org/2009/agents/1076
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3193#Mark-Twain-s-Letters---Volume-1--1853-1866-
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-09-18'
 gutenberg_type: Text
